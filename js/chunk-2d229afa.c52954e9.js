@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d229afa"],{df02:function(n,e,t){"use strict";t.r(e);var c=function(){var n=this,e=n.$createElement,t=n._self._c||e;return t("div",{staticClass:"vedio-container"},[n._v("视频")])},o=[],a={name:"VedioIndex",components:{},props:{},data:function(){return{}},computed:{},watch:{},created:function(){},mounted:function(){},methods:{}},u=a,d=t("2877"),i=Object(d["a"])(u,c,o,!1,null,"49ccb8ef",null);e["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d229afa.c52954e9.js.map
